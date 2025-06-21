@@ -1,3 +1,5 @@
+Forked for quickdraw.withgoogle.com
+
 # The Quick, Draw! Dataset
 ![preview](preview.jpg)
 
